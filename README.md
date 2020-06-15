@@ -1,5 +1,7 @@
 # wtf-ascii-funtimes
 
+gratuitous edit
+
 This repo is used in the [What They Forgot to Teach You About R](https://rstats.wtf) teaching materials, when we cover intermediate Git workflows.
 
 Students fork and clone it and various guided activities explore:
